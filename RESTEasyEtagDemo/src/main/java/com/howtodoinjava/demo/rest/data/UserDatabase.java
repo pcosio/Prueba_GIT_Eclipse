@@ -14,7 +14,7 @@ public class UserDatabase
 		User user = new User();
 		user.setId(1);
 		user.setFirstName("dem");
-		user.setLastName("user");
+		user.setLastName("use");
 		user.setUri("/user-management/users/1");
 		user.setLastModified(new Date());
 		users.put(1, user);
